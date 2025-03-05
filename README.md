@@ -17,6 +17,5 @@
  🔹 Expanding my skills in Power BI, Python, and SQL  
 🔹 Building a portfolio to showcase my expertise  
 🔹 Analyzing the financial condition of companies  
-🔹 Investing in the Polish stock market  
 ## 📫 Let's Connect!
 ### 💼 I'm open to collaborations, freelance projects, and job opportunities in the data space. Feel free to connect with me!
