@@ -14,7 +14,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ### 📌 Current Focus:    
-# 🔹 Expanding my skills in Power BI, Python, and SQL  
+# 🔹 Expanding my skills in Power BI, Python, and SQL 
 # 🔹 Building a portfolio to showcase my expertise  
 # 🔹 Analyzing the financial condition of companies  
 # 🔹 Investing in the Polish stock market  
