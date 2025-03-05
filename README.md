@@ -1,5 +1,5 @@
-### Hi there 👋I'm Mateusz!
-# 🚀 Aspiring Data Professional | Machine Learning Enthusiast | Python & SQL Developer | Financial analyst
+## Hi there 👋I'm Mateusz!
+ 🚀 Aspiring Data Professional | Machine Learning Enthusiast | Python & SQL Developer | Financial analyst
 
 ## 🚀 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
