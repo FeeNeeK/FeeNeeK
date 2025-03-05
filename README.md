@@ -2,7 +2,7 @@
 ### 🚀 Aspiring Data Professional | Machine Learning Enthusiast | Python & SQL Developer | Financial analyst
 ## 📊 My GitHub Projects:
 ### 📂 I'm currently working on building my portfolio, which will showcase data science projects, financial analysis models, dashboards, and Python scripts that solve real-world problems. Stay tuned for updates!
-Enjoy exploring the current ones! 😊
+### Enjoy exploring the current ones! 😊
 ## 🚀 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
