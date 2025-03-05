@@ -17,5 +17,5 @@
 ## 📫 Let's Connect!
 ### 💼 I'm open to collaborations, freelance projects, and job opportunities in the data space. Feel free to connect with me!
 # Reach me:
-f3nko4@gmail.com
-https://www.linkedin.com/in/mateusz-grajewski-a11b392b1/
+E-mail:f3nko4@gmail.com  
+linked.in: https://www.linkedin.com/in/mateusz-grajewski-a11b392b1/
