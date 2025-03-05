@@ -12,7 +12,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+### 📌 Current Focus:
+🔹 Expanding my skills in Power BI, Python, and SQL
+🔹 Building a portfolio to showcase my expertise
+🔹 Analyzing the financial condition of companies
+🔹 Investing in the Polish stock market in my free time
 
 ## 📫 Let's Connect!
 ### 💼 I'm open to collaborations, freelance projects, and job opportunities in the data space. Feel free to connect with me!
